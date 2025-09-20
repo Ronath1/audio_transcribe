@@ -16,4 +16,9 @@ This project can be used in many scenarios, such as:
 - Upload audio files (MP3, WAV, etc.)  
 - Automatic speech-to-text conversion  
 - REST API for integration into other applications  
-- Built on Spring Boot for scalability and flexibility  
+- Built on Spring Boot for scalability and flexibility
+
+- ## 🛠️ Tech Stack
+- **Java + Spring Boot** for backend  
+- **Maven/Gradle** for build management  
+- **Speech-to-Text API/Library** for transcription 
