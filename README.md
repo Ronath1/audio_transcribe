@@ -11,3 +11,9 @@ This project can be used in many scenarios, such as:
 - 🎧 Creating captions for podcasts or videos  
 - 🏢 Supporting meeting minutes in businesses  
 - 📱 Making applications more accessible to users with hearing impairments  
+
+## 🚀 Features
+- Upload audio files (MP3, WAV, etc.)  
+- Automatic speech-to-text conversion  
+- REST API for integration into other applications  
+- Built on Spring Boot for scalability and flexibility  
