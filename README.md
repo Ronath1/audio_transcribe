@@ -27,4 +27,11 @@ This project can be used in many scenarios, such as:
 - Support for multiple languages  
 - Real-time transcription (streaming audio)  
 - Text formatting and punctuation improvements  
-- Secure endpoints with authentication  
+- Secure endpoints with authentication
+
+- ## 🤝 Contributions
+Contributions are welcome!  
+If you have ideas to improve transcription accuracy, add language support, or enhance usability, feel free to open a pull request.
+
+## 📄 License
+This project is licensed under the MIT License.  
