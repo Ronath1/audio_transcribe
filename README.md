@@ -22,3 +22,9 @@ This project can be used in many scenarios, such as:
 - **Java + Spring Boot** for backend  
 - **Maven/Gradle** for build management  
 - **Speech-to-Text API/Library** for transcription 
+
+## 🔮 Future Improvements
+- Support for multiple languages  
+- Real-time transcription (streaming audio)  
+- Text formatting and punctuation improvements  
+- Secure endpoints with authentication  
