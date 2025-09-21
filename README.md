@@ -29,5 +29,8 @@ This project can be used in many scenarios, such as:
 - Text formatting and punctuation improvements  
 - Secure endpoints with authentication
 
+- ## 🤝 Contributions
+Contributions are welcome!  
+If you have ideas to improve transcription accuracy, add language support, or enhance usability, feel free to open a pull request.
 
 
