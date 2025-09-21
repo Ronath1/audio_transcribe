@@ -33,4 +33,7 @@ This project can be used in many scenarios, such as:
 Contributions are welcome!  
 If you have ideas to improve transcription accuracy, add language support, or enhance usability, feel free to open a pull request.
 
+## 📄 License
+This project is licensed under the MIT License.  
+
 
